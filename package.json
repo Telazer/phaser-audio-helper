@@ -1,6 +1,6 @@
 {
   "name": "@telazer/phaser-audio-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A helper library for Phaser audio management",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -30,6 +30,6 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
-    "phaser": "^3.90.0"
+    "phaser": "^4.0.0-rc.4"
   }
 }
